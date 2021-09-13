@@ -10,6 +10,7 @@
 
 # production
 /build
+/functions/stripe.json
 
 # misc
 .DS_Store
