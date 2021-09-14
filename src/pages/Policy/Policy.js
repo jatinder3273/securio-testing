@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useContext, useEffect, useState } from "react";
 import NotFound from "../../components/Common/NotFound";
 import PolicyCard from "../../components/PolicyCard";
